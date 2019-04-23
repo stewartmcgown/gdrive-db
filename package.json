@@ -1,0 +1,29 @@
+{
+  "name": "gdrive-db",
+  "version": "1.0.0",
+  "description": "A simple Google Sheets powered database engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stewartmcgown/gdrive-db.git"
+  },
+  "keywords": [
+    "google",
+    "sheets",
+    "drive",
+    "db",
+    "database"
+  ],
+  "author": "Stewart McGown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stewartmcgown/gdrive-db/issues"
+  },
+  "homepage": "https://github.com/stewartmcgown/gdrive-db#readme",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
